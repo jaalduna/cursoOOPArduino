@@ -9,7 +9,7 @@ curso de programación orientada a objetos con Arduino
    2. Experimentos:
       1. Control de experimentos: variables controladas, variables manipuladas, etc.
 1. Plataformas
-1. PlatformIO + ESP8266 / ESP32
+   1. PlatformIO + ESP8266 / ESP32
 
 
 1. Parámetros
