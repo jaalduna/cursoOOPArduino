@@ -5,7 +5,9 @@ curso de programación orientada a objetos con Arduino
 ## Temario
 
 1. Introducción
-1. Programación Orientada a Objetos
+  1. Programación Orientada a Objetos
+  2. Experimentos:
+    1. Control de experimentos: variables controladas, variables manipuladas, etc.
 1. Plataformas
 1. PlatformIO + ESP8266 / ESP32
 
@@ -17,8 +19,10 @@ curso de programación orientada a objetos con Arduino
    4. Reset del nodo
    5. Actualización de parámetros de forma remota
  
+
 2. Medición de variables.
-   2. Sensores como objetos. 
+   1. Sensores como objetos.
+   1. Interfaces seriales.
  
 3. Control de variables
    1. Actuadores
